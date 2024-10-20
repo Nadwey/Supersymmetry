@@ -1,3 +1,22 @@
+# Fork
+
+This is my fork of Supersymmetry with some QOL/Ambience mods.
+
+Just added the mods, nothing more.
+
+Added mods:
+- Aqua Acrobatics
+- Oceanic Expanse
+- Lootr
+- Chisels & Bits
+- Ambient Environment
+- EnhancedVisuals
+- WrapFix
+- Puddles
+- Dynamic Surroundings
+- Horizontal Glass Panes
+- OreLib
+
 # Supersymmetry
 Supersymmetry is a complex tech-centered modpack based around GregTech that integrates chemical and physical processes from reality into its progression. This means having many different crafting chains that imitate manufacturing processes used in real life.
 
