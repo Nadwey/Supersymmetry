@@ -16,6 +16,7 @@ Added mods:
 - Dynamic Surroundings
 - Horizontal Glass Panes
 - OreLib
+- Fullscreen Windowed
 
 # Supersymmetry
 Supersymmetry is a complex tech-centered modpack based around GregTech that integrates chemical and physical processes from reality into its progression. This means having many different crafting chains that imitate manufacturing processes used in real life.
